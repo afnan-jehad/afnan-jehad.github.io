@@ -1,0 +1,16 @@
+.af{background-color:#f0f8ff;
+background-image:url("a1.webp");
+background-repeat:no-repeat;
+background-size:30% 30%;
+background-position:center left;
+width:400px;
+border-color:pink;
+border-width:10%;
+border-style:solid;
+padding-right:50px;
+padding-left:50px;
+margin-top:10%;
+margin-right:30%;
+margin-left:30%;
+text-align:right;
+}
